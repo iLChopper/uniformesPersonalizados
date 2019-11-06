@@ -1,0 +1,15 @@
+.solicitar{
+ 
+  border: 0px solid grey;
+  border-radius: 10px;
+  background-color: #FFF25F;
+  
+  
+}
+.solicitar:hover {
+background-color: #F7CE40;
+}
+
+.fondoModelos{
+
+}
